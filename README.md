@@ -117,29 +117,4 @@ Before deploying or running production, set the following:
 Pull requests and feature suggestions are welcome!  
 Feel free to fork this repo and submit improvements 🚀
 
----
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-> Built with ❤️ to help raise awareness about human trafficking.
-```
-
----
-
-# ✅ Ready!
-
-You can copy-paste this into your project as `README.md`.
-
-It will make your GitHub project look **professional and ready for portfolio/showcase**.  
-✨
-
----
-
-# 🚀 Bonus Tip
-Would you like me to also generate a **`.gitignore`** and **`vercel.json`** file next?  
-(so you can directly deploy this backend to Vercel after your push!)  
-Just say **yes**! 🎯
