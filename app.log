@@ -1,0 +1,158 @@
+INFO:root:Session ID: 9841, User Query: Hi,how are you, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9841, User Query: Hi, How are you?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9841, AI Response: I don't know based on the given information.
+INFO:root:Session ID: 9841, User Query: What is human trafficking?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9841, AI Response: Human trafficking is defined as the recruitment, harboring, transportation, provision, obtaining, patronizing, or soliciting of a person for the purpose of a commercial sex act or for labor or services, through the use of force, fraud, or coercion. This includes sex trafficking and forced labor. Sex trafficking involves commercial sex acts induced by force, fraud, or coercion, or involving a person under 18 years of age. Forced labor refers to the use of force, fraud, or coercion for the purpose of subjecting someone to involuntary servitude, peonage, debt bondage, or slavery.
+INFO:root:Session ID: 9841, User Query: What are it's type?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9841, AI Response: The three main types of human trafficking are:
+
+1. **Sex trafficking**: This involves the recruitment, harboring, transportation, provision, obtaining, patronizing, or soliciting of a person for the purpose of a commercial sex act, which is induced by force, fraud, or coercion. Persons under age 18 who are induced to perform commercial sex acts are automatically considered victims of sex trafficking.
+
+2. **Labor trafficking**: This type involves the recruitment, harboring, transportation, provision, or obtaining of a person for labor or services through force, fraud, or coercion.
+
+3. **Child soldiering**: While not as prevalent in the U.S., it is included due to its relevance for military-connected students studying abroad, where they may encounter news about the recruitment and use of children as soldiers.
+INFO:root:Session ID: 9841, User Query: What are vulnerable to it?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9841, AI Response: Individuals from any class, religious, cultural, or ethnic group can be targeted in human trafficking schemes. However, the following groups are especially vulnerable:
+
+- Individuals who have experienced childhood abuse or neglect
+- Children and youth involved in the foster care and juvenile justice systems
+- People experiencing homelessness
+- American Indians, Alaska Natives, Native Hawaiians, and Pacific Islanders
+- Survivors of violence
+- Migrant workers
+- Undocumented immigrants
+- Racial and ethnic minorities
+- People with disabilities
+- People with low incomes
+- People with a history of substance abuse or substance use disorder
+- Communities exposed to intergenerational trauma
+
+Additionally, service members, Department of Defense (DoD) civilians, DoD contractor employees, and DoD family members, including children, are also at risk, as traffickers look for individuals in vulnerable situations.
+INFO:root:Session ID: 9841, User Query: hi, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9841, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 9841, User Query: how can i identify human trafficking signs?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9841, AI Response: You can identify potential signs of human trafficking by observing the following indicators in youth:
+
+- Unexplained absences from school or a sudden drop in school performance.
+- Chronic running away from home.
+- Sudden or dramatic changes in behavior, such as a typically mild-mannered youth beginning to act out or an outgoing youth becoming reclusive and disconnected from peers.
+- Displaying fearful, anxious, depressed, submissive, tense, or nervous/paranoid behaviors.
+- Suddenly having more (and/or more expensive) material possessions, such as purses, clothing, or cell phones.
+- Engaging in behaviors that would lead to disciplinary actions, like fighting or class disruptions.
+
+Recognizing these signs can help alert adults to a potential human trafficking situation, although no single indicator is proof of human trafficking.
+INFO:root:Session ID: 9841, User Query: how can i identify human trafficking signs in school?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9841, AI Response: In school settings, you can identify potential signs of human trafficking by looking for the following behavioral indicators:
+
+- An inability to attend school regularly and/or unexplained absences.
+- Frequently running away from home.
+- References made to frequent travel to other cities.
+- Bruises or other signs of physical trauma, as well as withdrawn behavior, depression, anxiety, or fear.
+- Lack of control over a personal schedule and/or identification or travel documents.
+- Signs of hunger, malnourishment, or inappropriate dress based on weather conditions or surroundings.
+- Signs of drug addiction.
+
+These signs may indicate that a student is at risk or may be a victim of human trafficking. It’s important for educators and caregivers to be aware of these indicators to provide appropriate support and intervention.
+INFO:root:Session ID: 9841, User Query: what is airplane?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9841, AI Response: I'm sorry, I don't have enough information based on what I know.
+INFO:root:Session ID: 9841, User Query: what is airplane?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9841, AI Response: I'm sorry, I don't have enough information based on what I know.
+INFO:root:Session ID: 9841, User Query: hi, Model: gpt-4o-mini
+INFO:root:Session ID: 9841, AI Response: Hello! How can I assist you today?
+INFO:root:Session ID: 9841, User Query: hi, how are you?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9841, AI Response: I’m here and ready to help! How can I assist you today?
+INFO:root:Session ID: 9841, User Query: What is airplane?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9841, AI Response: I'm sorry, I don't have enough information based on what I know.
+INFO:root:Session ID: 9841, User Query: What is airplane?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9841, AI Response: I'm sorry, I don't have enough information based on what I know.
+INFO:root:Session ID: 9841, User Query: What is airplane?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Fallback triggered: using direct ChatGPT knowledge.
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 9841, AI Response: An airplane, also known as an aircraft, is a powered flying vehicle with fixed wings and a robust fuselage that is designed primarily for transporting passengers and cargo through the atmosphere. Airplanes are propelled by engines, which can be either jet engines or propeller-driven engines. 
+
+Key components of an airplane include:
+
+1. **Wings:** Generate lift, allowing the airplane to fly.
+2. **Fuselage:** The main body of the aircraft, which houses passengers, cargo, and the cockpit.
+3. **Empennage (Tail):** Provides stability and control; includes horizontal stabilizers and vertical stabilizers.
+4. **Landing Gear:** Supports the airplane when it is on the ground and during takeoff and landing.
+5. **Cockpit:** The area from where the pilot controls the airplane.
+
+Airplanes come in various sizes and configurations, serving different purposes such as commercial air travel, cargo transport, military operations, and recreational flying. They are a crucial part of modern transportation, allowing for fast and efficient travel over long distances.
+INFO:root:Session ID: , User Query: What is human trafficking?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 50dd3379-d568-41fd-b75e-a69b19f3762d, AI Response: Human trafficking is defined as the recruitment, harboring, transportation, provision, or obtaining of a person for the purpose of commercial sex acts or forced labor. Specifically, sex trafficking involves inducing a person to engage in commercial sex acts through force, fraud, or coercion, or when the person is under 18 years of age. Forced labor refers to the recruitment, harboring, or provision of a person for labor or services through the use of force, fraud, or coercion, for the purpose of involuntary servitude, peonage, debt bondage, or slavery.
+INFO:root:Session ID: 50dd3379-d568-41fd-b75e-a69b19f3762d, User Query: What are it's types?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 50dd3379-d568-41fd-b75e-a69b19f3762d, AI Response: The three main types of human trafficking are:
+
+1. **Sex Trafficking**: This involves the recruitment, harboring, transportation, provision, obtaining, patronizing, or soliciting of a person for commercial sex acts. It can be induced by force, fraud, or coercion. Importantly, individuals under age 18 who engage in commercial sex acts are automatically considered victims of sex trafficking, regardless of whether force, fraud, or coercion is present.
+
+2. **Labor Trafficking**: This type involves the recruitment, harboring, transportation, provision, or obtaining of a person for labor or services through the use of force, fraud, or coercion. 
+
+3. **Child Soldiering**: Though not as commonly discussed in the U.S., it refers to the use of children in armed conflict. This type is included due to relevance for military-connected students who may encounter stories of child soldiering in other contexts.
+
+These are the primary forms of trafficking that individuals, including teenagers, should be aware of.
+INFO:root:Session ID: 50dd3379-d568-41fd-b75e-a69b19f3762d, User Query: Got it. Thanks, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 50dd3379-d568-41fd-b75e-a69b19f3762d, AI Response: You're welcome! If you have any more questions or need further information, feel free to ask. I'm here to help!
+INFO:root:Session ID: 50dd3379-d568-41fd-b75e-a69b19f3762d, User Query: How do i report human trafficking?, Model: gpt-4o-mini
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Session ID: 50dd3379-d568-41fd-b75e-a69b19f3762d, AI Response: To report human trafficking, you can follow these steps:
+
+1. **Do not confront a suspected trafficker directly or alert a victim to your suspicions. Your safety and the victim’s safety are extremely important.**
+
+2. **Follow your company’s protocol** for reporting suspicious activity or crime taking place at your location, if applicable.
+
+3. **Call the Homeland Security Investigations (HSI) Tip Line** at 1-866-347-2423 to report suspicious criminal activity, including human trafficking, to federal law enforcement 24 hours a day, 7 days a week. You can also submit an anonymous tip online via the HSI Tip Form at: ice.gov/webform/hsi-tip-form.
+
+4. **Call the National Human Trafficking Hotline** at 1-888-373-7888 to report suspected human trafficking. This hotline is toll-free and available 24 hours a day, 7 days a week, in English, Spanish, and more than 200 other languages. 
+
+It's important to take action while ensuring safety for yourself and others involved.
